@@ -1,5 +1,5 @@
 <p align="center" class="has-mb-6">
-<img class="not-gallery-item" height="48" src="https://cdn.jsdelivr.net/gh/ArLxn/NingCloud@cdn-Sites/themeGallery/1701P.png">
+<img class="not-gallery-item" height="48" src="https://cdn.jsdelivr.net/gh/ArLxn/NingCloud@cdn-site/themeGallery/1701P.png">
 <br> 是的，我们是青松中学的17届01班
 <br>
 <a href="https://1701-Studio.github.io">主站</a> |
